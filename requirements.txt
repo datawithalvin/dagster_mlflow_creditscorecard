@@ -1,0 +1,10 @@
+scorecardpy==0.1.9.7
+dagster==1.8.11
+dagster-webserver==1.8.11
+mlflow==2.17.0
+pandas
+scikit-learn
+optbinning==0.19.0
+sqlalchemy
+connectorx
+duckdb==1.1.2
